@@ -1,0 +1,3 @@
+updates-http.cdn-apple.com
+updates-http.cdn-apple.com.akadns.net
+updates-http-lb.cdn-apple.com.akadns.net

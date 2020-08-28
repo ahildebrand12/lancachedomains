@@ -1,7 +1,12 @@
 {
 	"cache_domains": [
 		{
-			"name": "ASUS",
+			"name": "apple",
+			"description": "Apple Software Updates",
+			"domain_files": ["apple.txt"]
+		},
+		{
+			"name": "asus",
 			"description": "Asus Drivers",
 			"domain_files": ["asus.txt"]
 		},
